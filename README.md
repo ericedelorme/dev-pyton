@@ -1,2 +1,2 @@
 # dev-pyton
-Some Python Sripts
+some usefull scripts for different purpose
